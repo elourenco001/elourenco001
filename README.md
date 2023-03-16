@@ -1,21 +1,21 @@
 ### Hi there 👋
 
-Me chamo Emerson. Trabalho com tecnologia a 13 anos, Formado em Sistema da Informacao e Pós Engenharia de Software. Possuo em torno de 25 certificacoes entre Scrum & DevOps.
+Me chamo Emerson. Trabalho com tecnologia a 13 anos, Formado em Sistema da Informação e Pós Engenharia de Software. Possuo em torno de 25 certificações entre Scrum & DevOps.
 
 ![logo do top](img/desenvolvedor-web.jpg)
 
 Toda minha carreira venho trabalhando como Gestao de Projetos e Scrum Master. 
-Algum tempo, vinha planejando fazer uma transicao de carreira para DEV Front End, entao meu objetivo tracado para 2023 era me tornar um DEV pois sempre foi minha paixao.🌱
+Algum tempo, vinha planejando fazer uma transição de carreira para DEV Front End, então meu objetivo traçado para 2023 era me tornar um DEV pois sempre foi minha paixão.🌱
 
 ![log do centro](img/matrix.gif)
 
-Agora com ajuda de todos voces, venho aprendendo a cada dia um pouquinho. No comeco nada é facil, parece que o cerebro está entrando em colapso, mas desistir nao é meus planos onde a persistencia e perseveranca está no DNA.💬
+Agora com ajuda de todos vocês, venho aprendendo a cada dia um pouquinho. No começo nada é fácil, parece que o cérebro está entrando em colapso, mas desistir não é meus planos onde a persistência e perseverança está no DNA.💬
 
 ![logo do centro](img/persistencia.jpg)
 
-Venho estudando e criando alguns Prototipos baseados em treinamentos e videos do YouTube de Devs Desenvolvendo coisas super bacanas, vejo, analiso, copio e estudo os comandos que ainda nao sei (Quase todos) MAS um dia chegarei lá.😄
+Venho estudando e criando alguns Prototipos baseados em treinamentos e videos do YouTube de Devs Desenvolvendo coisas super bacanas, vejo, analiso, copio e estudo os comandos que ainda não sei (Quase todos) MAS um dia chegarei lá.😄
 
-Minha Paixao é minha familia, meu violao, meus games, viajar, uma boa comida japonesa e curtir a vida com as pessoas que amo... 
+Minha Paixão é minha familia, meu violão, meus games, viajar, uma boa comida japonesa e curtir a vida com as pessoas que amo... 
 
 
 #BoraCodificar
