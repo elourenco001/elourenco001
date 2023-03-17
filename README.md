@@ -22,6 +22,7 @@ Minha Paixão é minha familia, meu violão, meus games, viajar, uma boa comida 
 
 ![log do centro](img/code.gif)
 
+![Snake animation](https://github.com/Pedroarthur1999/Pedroarthur1999/blob/output/github-contribution-grid-snake.svg)
 
 
 
