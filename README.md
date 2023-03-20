@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Me chamo Emerson. Trabalho com tecnologia a 13 anos, Formado em Sistema da Informação e Pós Engenharia de Software. Possuo em torno de 25 certificações entre Scrum & DevOps.
+Me chamo Emerson. Trabalho com tecnologia a 13 anos, Formado em Sistema da Informação e Pós Engenharia de Software. Possuo em torno de 25 certificações entre Scrum & DevOps.Em 2012 comecei aplicar meus estudos de HTML 4 em um blog que estava trabalhando, foram 3 anos bem interessante. https://emergeek.blogspot.com/ 
 
 ![logo do top](img/desenvolvedor-web.jpg)
 
